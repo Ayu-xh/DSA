@@ -11,4 +11,4 @@ class Solution {
         int sum = (n*int_sum)/2;
         return sum;
     }
-}
+};
